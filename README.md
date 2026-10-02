@@ -2,31 +2,19 @@
 
 ### Desenvolvedor em formação | Tecnologia da Informação
 
-Sou formado em **Gestão de Tecnologia da Informação e Comunicação** e atualmente estou aprofundando meus conhecimentos em **desenvolvimento web e JavaScript**.
+Sou formado em **Gestão de Tecnologia da Informação e Comunicação** e atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, JavaScript e Node.js**.
 
-Meu foco atual é fortalecer minha base em programação, desenvolver projetos práticos e evoluir gradualmente para o desenvolvimento **Full Stack**.
+Meu objetivo é transformar conhecimento em projetos práticos e evoluir continuamente como desenvolvedor.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
 ### Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-Básico-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-Básico-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-
 ### Back-end
 
-![Node.js](https://img.shields.io/badge/Node.js-Básico-green?style=for-the-badge\&logo=node.js\&logoColor=white)
-
 ### Versionamento
-
-![Git](https://img.shields.io/badge/Git-Básico-orange?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-Básico-black?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
@@ -41,26 +29,29 @@ Meu foco atual é fortalecer minha base em programação, desenvolver projetos p
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo profissional
 
-Meu objetivo é evoluir continuamente como desenvolvedor, transformar meus conhecimentos em **projetos reais** e construir uma carreira na área de tecnologia.
+Busco uma oportunidade na área de **Tecnologia da Informação e Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo tecnicamente.
 
-Estou atualmente focado em consolidar meus fundamentos e avançar gradualmente para conceitos mais avançados de **JavaScript, Node.js e desenvolvimento Full Stack**.
+Tenho interesse em seguir minha carreira como **desenvolvedor**, avançando gradualmente em direção ao desenvolvimento **Full Stack**.
 
 ---
 
 ## 📂 Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, colocando em prática conceitos de:
+Neste perfil você encontrará projetos desenvolvidos durante minha jornada de aprendizado, utilizando tecnologias como:
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * Node.js
-* Git e GitHub
+* Git
+* GitHub
 
 ---
 
-### 🚀 Em constante evolução
+## 🚀 Em constante evolução
 
-> "O aprendizado em programação é um processo contínuo. Cada projeto é uma oportunidade de aprender algo novo."
+Estou constantemente estudando e colocando em prática novos conhecimentos através de projetos e exercícios de programação.
+
+**Cada projeto é uma oportunidade para aprender, praticar e evoluir.**
